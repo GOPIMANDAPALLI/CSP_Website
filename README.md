@@ -49,7 +49,7 @@ Also thanks to our college, faculty mentors, and all team members for supporting
 
 ## License  
 This repository is for academic and community-service use only. Feel free to adapt the materials for non-commercial educational purposes.  
-(Add a specific open-source license here if you’d like.)
+
 
 
 
