@@ -36,7 +36,10 @@ We conducted door-to-door surveys, utilized Google Forms, and followed up with a
 - K. Vasavi  
 - G. Kishore  
 - A. Venkatesu  
-(3rd Year, B.Tech CSE — Viswam Engineering College, Madanapalle)  
+(3rd Year, B.Tech CSE — Viswam Engineering College, Madanapalle)
+
+
+<img width="1545" height="650" alt="Image" src="https://github.com/user-attachments/assets/1cd6488b-3eb7-4559-b9f9-c4ac4f985f7c" />
 
 ## Acknowledgements  
 We thank the villagers of Gurralavari Palli for their cooperation and sincere participation.  
